@@ -174,6 +174,7 @@ curl http://127.0.0.1:8000/health
 | [frontend/README.md](frontend/README.md) | Complete UI/UX specification |
 | [backend/README.md](backend/README.md) | Backend setup & API reference |
 | [backend/ARCHITECTURE.md](backend/ARCHITECTURE.md) | Backend folder structure & patterns |
+| [DEPLOYMENT.md](DEPLOYMENT.md) | Go live on Vercel + Railway |
 
 ---
 
